@@ -1,0 +1,85 @@
+#b1{
+    border: none;
+    height: 25px;
+}
+#b1:hover{
+    background-color:white;
+    border: none;
+}
+#b2{
+    border: none;
+    height: 25px;
+    background-color: blueviolet;
+    color: white;
+}
+#b2:hover{
+    background-color: rgb(141, 78, 199);
+    border: none;
+}
+#b3{
+    border: none;
+    height: 25px;
+    background-color: rgb(18, 171, 232);
+    color: white;
+}
+#b3:hover{
+    background-color: rgb(15, 120, 199);
+    border: none;
+}
+#b4{
+    border: none;
+    height: 25px;
+    background-color: rgb(146, 9, 9);
+    color: white;
+}
+#b4:hover{
+    background-color: rgb(80, 2, 0);
+    border: none;
+}
+#b5{
+    border: none;
+    height: 35px;
+    width: 65px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+#b5:hover{
+    background-color: rgb(245, 231, 231);
+    border: none;
+}
+#b6{
+    border: none;
+    height: 28px;
+    width: 35px;
+    font-size: 10px;
+    border-radius: 2px;
+
+}
+#b6:hover{
+    background-color: rgb(245, 231, 231);
+    border: none;
+}
+#b7{
+    border: none;
+    height: 28px;
+    width: 35px;
+    font-size: 10px;
+    border-radius: 10px;
+
+}
+#b7:hover{
+    background-color: rgb(245, 231, 231);
+    border: none;
+}
+#b8{
+    border: none;
+    height: 25px;
+    background-image: linear-gradient(to right,purple,rgb(20, 167, 225));
+    color: white;
+    border-radius: 2px;
+}
+#b8:hover{
+    background-image: linear-gradient(white);
+    border: none;
+}
